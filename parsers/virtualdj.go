@@ -2,7 +2,7 @@ package parsers
 
 import (
 	"bufio"
-	. "github.com/ruxton/mix_cover_builder/data"
+	. "github.com/ruxton/tracklist_parsers/data"
 	"github.com/ruxton/term"
 	"io"
 	"os"
